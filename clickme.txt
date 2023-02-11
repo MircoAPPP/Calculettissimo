@@ -1,0 +1,1 @@
+Vai a qusto link per installare .NET serve per far funzionare l'app https://download.visualstudio.microsoft.com/download/pr/4c5e26cf-2512-4518-9480-aac8679b0d08/523f1967fd98b0cf4f9501855d1aa063/windowsdesktop-runtime-6.0.13-win-x64.exe
